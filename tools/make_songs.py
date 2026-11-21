@@ -50,7 +50,7 @@ international = [
  S("intl_013","گام دو ماژور (بالا و پایین)","C Major Scale","beginner","beginner",90,"4/4",
    "C4 D4 E4 F4 G4 A4 B4 C5 | D5 E5 F5 G5 A5 B5 C6 D6 | E6 D6 C6 B5 A5 G5 F5 E5 | D5 C5 B4 A4 G4 F4 E4 D4 | C4:4",
    "original_cc0",ORIG,"پروژه کالیمبا آوا"),
- S("intl_014","آرپژ ساده","Arpeggio Study","intermediate","intermediate",90,"4/4",
+ S("intl_014","آرپژ ساده","Arpeggio Study","beginner","intermediate",90,"4/4",
    "C4 E4 G4 C5 G4 E4 C4:2 | D4 F4 A4 D5 A4 F4 D4:2 | E4 G4 B4 E5 B4 G4 E4:2 | F4 A4 C5 F5 C5 A4 F4:2 | G4 B4 D5 G5 D5 B4 G4:2 | C4+E4+G4:4",
    "original_cc0",ORIG,"پروژه کالیمبا آوا"),
  S("intl_015","دو شست","Two Thumbs Study","relaxing","intermediate",100,"4/4",
